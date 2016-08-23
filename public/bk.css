@@ -1,0 +1,28 @@
+
+body {
+    font-family: 'Lato';
+}
+
+.fa-btn {
+    margin-right: 6px;
+}
+.navbar-default {
+    background-color: transparent;
+    border-color: transparent;
+}
+
+.thumbnail{
+	border: transparent;
+}
+
+.header-picture{
+	margin-bottom: 10px;
+}
+
+.promo{
+	margin-bottom:5px;
+}
+
+.site-wrapper{
+	margin-top: 60px;
+}
